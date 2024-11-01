@@ -8,9 +8,9 @@ class AppConstants {
 
   static const String fontFamily = 'Roboto';
   static const bool payInWevView = false;
-  static const String webHostedUrl = 'https://fastdeliveryuser.lojadodesenvolvedor.com';
+  static const String webHostedUrl = 'https://pedenozip.com';
 
-  static const String baseUrl = 'https://fastdelivery-admin.lojadodesenvolvedor.com';
+  static const String baseUrl = 'https://painel.pedenozip.com';
   static const String categoryUri = '/api/v1/categories';
   static const String bannerUri = '/api/v1/banners';
   static const String restaurantProductUri = '/api/v1/products/latest';
