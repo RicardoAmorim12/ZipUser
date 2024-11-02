@@ -1,4 +1,4 @@
-package com.lojadev.fast_delivery_user
+package com.user.zipdelivery
 
 import io.flutter.embedding.android.FlutterActivity
 
