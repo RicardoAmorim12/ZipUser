@@ -1,4 +1,4 @@
-package com.user.zipdelivery
+package com.zipdelivery.user
 
 import io.flutter.embedding.android.FlutterActivity
 
